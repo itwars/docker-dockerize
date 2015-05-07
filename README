@@ -1,0 +1,3 @@
+Docker container made to retrieves all files, libs,... Needed to run nginx, in order to minify docker image, using dockerize.
+
+WIP: stay tune!
